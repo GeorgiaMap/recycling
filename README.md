@@ -1,4 +1,4 @@
-<img src="img/grc-logo.png" style="widthX: 100%; max-width: 320px !important;" title="GRC" alt="Georgia Recycling Coalition">
+<img src="https://georgiarecycles.org"><img src="img/grc-logo-320.png" style="widthX: 100%; max-width: 320px !important;" title="GRC" alt="Georgia Recycling Coalition"></a>
 
 A directory of commercial recyclers from the Georgia Recycling Coalition (GRC) and The Georgia Department of Economic Development's Center of Innovation for Energy. Updates are underway for our new directory launch coming soon in mid-February of 2022.
 
