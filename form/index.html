@@ -13,6 +13,17 @@
 loadMarkdown("README.md", "readmeDiv", "_parent");
 </script>
 
+<style>
+#local-footer, #showSide {
+    display: none;
+}
+@media (min-width: 1000px) {
+    #rightColumnRecycling {
+        overflow:auto;
+    }
+}
+</style>
+
 </head>
 
 <body>
@@ -22,7 +33,7 @@ loadMarkdown("README.md", "readmeDiv", "_parent");
         <div id="readmeDiv"></div>
     </div>
 
-    <div style="overflow:auto;">
+    <div id="rightColumnRecycling">
         <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScP1U_1SW_0fY8e3uote_Aq8eS1UNzvQioYwy2L1y0UdgyT5w/viewform?embedded=true" width="640" height="2799" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
     </div>
 

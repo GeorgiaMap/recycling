@@ -21,6 +21,14 @@ loadMarkdown("intro.md", "introDiv", "_parent");
     padding: 40px;
     border-radius: 20px;
 }
+#local-footer, #showSide {
+    display: none;
+}
+@media (min-width: 799px) {
+    #rightColumnRecycling {
+        overflow:auto;
+    }
+}
 </style>
 
 </head>
@@ -32,7 +40,7 @@ loadMarkdown("intro.md", "introDiv", "_parent");
         <div id="readmeDiv"></div>
     </div>
 
-    <div style="overflow:auto;">
+    <div id="rightColumnRecycling">
         <div id="boundingBox">
             <div id="introDiv"></div>
         </div>
