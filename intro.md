@@ -2,7 +2,8 @@
 # Commercial Recycling Directory
 
 ***Add/Update Your Listing***  
-Submit our Google Form to add a new listing or submit a change to your existing listing. You'll start with a blank form for both additions and updates.  
+Submit our Google Form to add or update a listing.  
+You'll start with a blank form for both additions and updates.  
 
 <!--
 	https://docs.google.com/forms/d/1xiohFrPKEDgV7tXWumPd2HsQO-14B11t57JF8bN3QXo/edit 
