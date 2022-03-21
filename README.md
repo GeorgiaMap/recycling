@@ -1,4 +1,3 @@
-<a href="https://georgiarecycles.org"><img src="img/grc-logo-320.png" style="width: 100%; max-width: 320px !important;" title="GRC" alt="Georgia Recycling Coalition"></a>
 
 The Georgia Commercial Recycling directory contains commercial recycling businesses that sort, collect, process, and broker recovered materials as well as manufacturers in Georgia that use recovered materials to manufacture products. The Georgia Recycling Coalition (GRC) and The Georgia Department of Economic Development's Center of Innovation for Energy have partnered to update this valuable resource that allows users to locate recycling businesses in their area, thus facilitating the diversion of recovered materials from landfills.  
 

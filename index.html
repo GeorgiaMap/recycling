@@ -15,18 +15,34 @@ loadMarkdown("intro.md", "introDiv", "_parent");
 </script>
 
 <style>
+#local-footer, #showSide, .showMenu {
+    display: none !important;
+}
+#leftColumnRecycling {
+    float: left;
+    max-width: 500px;
+    padding-right: 30px;
+}
 #boundingBox {
-    margin-left: 30px;
     border: 1px solid #ccc;
     padding: 40px;
     border-radius: 20px;
 }
-#local-footer, #showSide {
-    display: none;
+.text_column {
+    overflow: auto;
+    margin-leftX: 30px;
 }
-@media (min-width: 799px) {
-    #rightColumnRecycling {
-        overflow:auto;
+@media (max-width: 1000px) {
+    #leftColumnRecycling {
+        float: none;
+        max-width: 100%;
+    }
+    .text_column {
+        float: none;
+        max-width: 100%;
+    }
+    #boundingBox {
+        margin-left: 0px;
     }
 }
 </style>
@@ -34,15 +50,15 @@ loadMarkdown("intro.md", "introDiv", "_parent");
 </head>
 
 <body>
-
 <div class="content contentpadding">
-    <div class="text_column" style="float:left; max-width:350px">
-        <div id="readmeDiv"></div>
+
+    <div id="leftColumnRecycling">
+        <div id="introDiv"></div>
     </div>
 
-    <div id="rightColumnRecycling">
+    <div class="text_column">
         <div id="boundingBox">
-            <div id="introDiv"></div>
+            <div id="readmeDiv"></div>
         </div>
     </div>
 

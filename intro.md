@@ -1,9 +1,15 @@
 
-# Commercial Recycling Directory
+<a href="https://georgiarecycles.org"><img src="img/grc-logo-320.png" style="width: 100%; max-width: 320px !important;" title="GRC" alt="Georgia Recycling Coalition"></a>
 
+# The Georgia Commercial Recyclers and Recovered Materials Manufacturers Directory
+
+Welcome! To add or update your organization's listing for the Georgia Commercial Recyclers and Recovered Materials Manufacturers Directory, please complete and submit the form below.
+
+<!--
 ***Add/Update Your Listing***  
 Submit our Google Form to add or update a listing.  
 You'll start with a blank form for both additions and updates.  
+-->
 
 <!--
 	https://docs.google.com/forms/d/1xiohFrPKEDgV7tXWumPd2HsQO-14B11t57JF8bN3QXo/edit 
