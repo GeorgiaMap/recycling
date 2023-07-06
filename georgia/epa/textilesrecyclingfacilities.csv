@@ -1,0 +1,5 @@
+objectid,name,address,county,telephone,email,website,naics_code,infra_type,feedstock
+8,Atlanta Recycling,"5125 Blalock Industrial Blvd, Atlanta, GA, 30349", ,(770) 997-7720, ,www.atlrecycling.com,562920,Textiles Recycling Facility,Textiles
+29,"Garson & Shaw, LLC","887 W. Marietta Street, Office M-204, Atlanta, GA, 30318", ,(404) 879-9915, ,www.garsonshaw.com,562920,Textiles Recycling Facility,Textiles
+30,Global Clothing Industries LLC,"300 Wharton Circle SW, Atlanta, GA, 30336", ,(404) 505-7339, ,www.gciatl.com,562920,Textiles Recycling Facility,Textiles
+63,ThredUP,"2670 Breckinridge Blvd, Duluth, GA, 30296", ,(678) 592-0027, ,www.thredup.com,562920,Textiles Recycling Facility,Textiles

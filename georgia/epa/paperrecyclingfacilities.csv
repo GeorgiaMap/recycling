@@ -1,0 +1,4 @@
+objectid,name,address,county,telephone,email,website,naics_code,infra_type,feedstock
+16,Georgia-Pacific LLC,"133 Peachtree St, Atlanta, GA, 30303", ,(404) 652-4000, ,https://www.gp.com/,562920,Paper Recycling Facility,Paper
+19,"Graphic Packaging International, LLC","1500 Riveredge Parkway NW, Atlanta, GA, 30328", ,(770) 240-7200, ,http://www.graphicpkg.com/,562920,Paper Recycling Facility,Paper
+35,"Neenah, Inc.","3460 Preston Ridge Road, Suite 600, Alpharetta, GA, 30005", ,(678) 566-6500, ,https://www.neenahpaper.com/,562920,Paper Recycling Facility,Paper
