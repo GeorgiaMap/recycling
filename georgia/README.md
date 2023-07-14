@@ -10,7 +10,7 @@ Our Commercial and Manufacturer Recycler list is maintained by the Georgia Recyc
 
 </div>
 
-# Georgia Recycling2
+# Georgia Recycling
 
 <!--
 RecycleSearch.com doesn't work in iFrame. Returns New York.
