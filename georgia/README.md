@@ -23,18 +23,11 @@ Note: The main side categories are not in the B2B form.
 Instead, the sub-categories from the form are displayed under each main catergory.
 -->
 **Business to Business (B2B) Recycling**
-<a href="/localsite/map/#show=recyclers&state=GA" target="_parent">Commercial Recyclers and Recovered Materials Manufacturers (421)</a>
+<a href="/localsite/map/#show=recyclers&state=GA" target="_parent">Commercial Recyclers and Recovered Materials Manufacturers (422)</a>
 
 <a href="/localsite/map/#show=recyclers&state=GA&cat=Wood">B2B Wood Recycling</a>
-<a href="/localsite/map/#show=recyclers&state=GA&cat=Glass">B2B Glass Recycling</a>
 <a href="/localsite/map/#show=recyclers&state=GA&cat=Plastic">B2B Plastic Recycling</a>
-
-<a href="https://www.epa.gov/circulareconomy/recycling-infrastructure-and-market-opportunities-map">EPA Recycling Infrastructure and Market Opportunities Map</a>
-<a href="https://epa.maps.arcgis.com/home/item.html?id=b738c9f0ece146a59e0fb22446189f52">U.S. EPA Recycling Infrastructure Dataset</a> - Wood, Plastic, Electronics, Glass, etc.
-<!--
-CSV files from site above placed in https://github.com/georgiamap/recycling/georgia/epa
--->
-
+<a href="/localsite/map/#show=recyclers&state=GA&cat=Glass">B2B Glass Recycling</a>
 
 **Wastewater, Landfills, Solid Waste**
 Maps for Hydrogen Initiative and Methane Capture
@@ -42,10 +35,15 @@ Maps for Hydrogen Initiative and Methane Capture
 <a href="/localsite/map/#show=landfills&state=GA" target="_parent">Georgia Landfill Map (98)</a>   
 <a href="/localsite/map/#show=solidwaste&state=GA&cat=Operating" target="_parent">Solid Waste Map (2055)</a> 
 
-**Consumer Recycling Services**
+**All State - US EPA**
+<a href="https://www.epa.gov/circulareconomy/recycling-infrastructure-and-market-opportunities-map">EPA Recycling Infrastructure and Market Opportunities Map</a>
+<a href="https://epa.maps.arcgis.com/home/item.html?id=b738c9f0ece146a59e0fb22446189f52">U.S. EPA Recycling Infrastructure Dataset</a> - Wood, Plastic, Glass, etc.
+<a href="epa">Georgia CSV files exported from EPA site (July 2023)</a>
+
+**Google - Consumer Recycling Services**
 <a href="https://www.google.com/search?q=Recycling+near+me" target="_parent">Consumer Recycling Centers - Google</a>
 
-**Municipal**<!-- https://map.georgia.org -->
+**Georgia Municipal Data Source**<!-- https://map.georgia.org -->
 [Transfer Stations](https://epd.georgia.gov/about-us/land-protection-branch/solid-waste/permitted-solid-waste-facilities) - Georgia EPD  
 [Georgia Landfills](https://epd.georgia.gov/about-us/land-protection-branch/solid-waste/permitted-solid-waste-facilities) - Georgia EPD  
 [Inert Waste Landfills](https://epd.georgia.gov/about-us/land-protection-branch/solid-waste/permitted-solid-waste-facilities) - Georgia EPD  
