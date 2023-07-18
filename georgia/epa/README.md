@@ -8,7 +8,7 @@ Source: <a href="https://epa.maps.arcgis.com/home/item.html?id=b738c9f0ece146a59
 
 
 
-Georgia's share of totals:
+Georgia's portion of totals:
 WHERE address iLIKE '%, GA,%'
 
 **Quantity in Georgia out of USA**  
