@@ -1,7 +1,12 @@
 # EPA listings for Georgia Recycling Inventory
 
 Exported from EPA ESRI site and converted with Carto.com on July 6, 2023.
-<a href="https://epa.maps.arcgis.com/home/item.html?id=b738c9f0ece146a59e0fb22446189f52">U.S. EPA Recycling Infrastructure Datasets</a>
+
+[View exported .csv files](https://github.com/GeorgiaMap/recycling/tree/main/georgia/epa) - push recent updates into repo  
+
+Source: <a href="https://epa.maps.arcgis.com/home/item.html?id=b738c9f0ece146a59e0fb22446189f52">U.S. EPA Recycling Infrastructure Datasets</a>
+
+
 
 Georgia's share of totals:
 WHERE address iLIKE '%, GA,%'
