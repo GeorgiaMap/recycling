@@ -6,7 +6,7 @@ Exported from EPA ESRI site and converted with Carto.com on July 6, 2023.
 Georgia's share of totals:
 WHERE address iLIKE '%, GA,%'
 
-**Quanity in Georgia out of USA**  
+**Quantity in Georgia out of USA**  
 WoodSecondaryProcessors (0 of 15)  
 WoodRecyclingFacilities (6 of 122)  
 TextilesRecyclingFacilities (4 of 77)  
