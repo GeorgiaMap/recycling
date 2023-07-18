@@ -6,12 +6,13 @@ Exported from EPA ESRI site and converted with Carto.com on July 6, 2023.
 Georgia's share of totals:
 WHERE address iLIKE '%, GA,%'
 
+**Quanity in Georgia out of USA**  
 WoodSecondaryProcessors (0 of 15)  
 WoodRecyclingFacilities (6 of 122)  
 TextilesRecyclingFacilities (4 of 77)  
 PlasticRecyclingFacilities (10 of 203)  
 PaperRecyclingFacilities (3 of 57)  
-MRFs (16 of 421) - <a href="https://recyclingpartnership.org/residential-mrfs/">Recycling Partnership: Commingled Residential MRFs</a>
+MRFs (16 of 421) - <a href="https://recyclingpartnership.org/residential-mrfs/">Recycling Partnership: Commingled Residential MRFs</a>  
 GlassSecondaryProcessors (2 of 52)  
 GlassRecyclingFacilities (0 of 31)  
 ElectronicsRecyclers (37 of 772)  
