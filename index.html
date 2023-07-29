@@ -5,7 +5,12 @@
 <title>Georgia Recycling</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon">
-<script type="text/javascript" src="/localsite/js/localsite.js?showheader=true"></script>
+<script type="text/javascript" src="/localsite/js/localsite.js?display=map&showheader=true&show=recyclers&shownav=false"></script>
+
+<script>
+loadMarkdown("README.md", "readmeDiv", "_parent");
+loadMarkdown("intro.md", "introDiv", "_parent");
+</script>
 
 <style>
 #local-footer, #showSide, .showMenu {
@@ -56,13 +61,17 @@
             <div id="readmeDiv"></div>
         </div>
     </div>
+    <br><br>
+
+    <div id="datascape"></div>
+
+    <div id="bodyFileHolder" style="border:1px solid #ccc; background-color: #fcfcfc; height: 500px; max-height: 500px; overflow: hidden;">
+        <div id="bodyFile" style="overflow:auto"></div>
+    </div>
 
 </div>
 
-<script>
-loadMarkdown("README.md", "readmeDiv", "_parent");
-loadMarkdown("intro.md", "introDiv", "_parent");
-</script>
+
 
 </body>
 </html>
