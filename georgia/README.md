@@ -12,6 +12,8 @@ Our Commercial and Manufacturer Recycler list is maintained by the Georgia Recyc
 
 # Georgia Recycling
 
+## Waste, Water, Energy
+
 <!--
 RecycleSearch.com doesn't work in iFrame. Returns New York.
 Also lacks CHARM.  Far from comprehensive.
