@@ -18,3 +18,5 @@ You'll start with a blank form for both additions and updates.
 -->
 
 <a href="/localsite/map/#show=recyclers&state=GA" class="btn btn-warning">Expand Map</a> <a href="https://docs.google.com/forms/d/e/1FAIpQLScP1U_1SW_0fY8e3uote_Aq8eS1UNzvQioYwy2L1y0UdgyT5w/viewform?usp=sf_link" class="btn btn-success" target="submit-B2B">Submit Listing</a> <a href="https://docs.google.com/spreadsheets/d/1YmfBPEFpfmaKmxcnxijPU8-esVkhaVBE1wLZqPNOKtY/edit#gid=1924677788" class="btn btn-primary" target="comment-B2B">Add Comments</a>
+
+Loooking for public recycling centers? Google [Recycling Near Me](https://google.com/maps?q=Recycling+Near+Me).
