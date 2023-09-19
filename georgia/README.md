@@ -3,7 +3,7 @@
 <a href="https://georgiarecycles.org" target="_parent"><img src="img/ga-epd-logo.png" style="width: 100%; max-width: 350px !important;" title="Georgia EPD" alt="Georgia EPD"></a><br><br>
 
 <a href="https://georgiarecycles.org" target="_parent"><img src="img/grc-logo-320.png" style="width: 100%; max-width: 350px !important;" title="GRC" alt="Georgia Recycling Coalition"></a><br><br>
-Our Commercial and Manufacturer Recycler list is maintained by the Georgia Recycling Coalition (GRC) in partnership with the <a href="https://www.georgia.org/center-of-innovation" target="_parent">Georgia Center of Innovation</a>.
+Our Commercial and Manufacturer Recycler List is maintained by the Georgia Recycling Coalition (GRC) in partnership with the <a href="https://www.georgia.org/center-of-innovation" target="_parent">Georgia Center of Innovation</a>.
 <br><br>
 
 <b>Volunteers welcome!</b> &nbsp;We need your help keeping our recycling <a href="https://docs.google.com/spreadsheets/d/1YmfBPEFpfmaKmxcnxijPU8-esVkhaVBE1wLZqPNOKtY/edit#gid=1924677788">Google Sheet</a> current. Add comments to rows or <a href="/localsite/info/input/">Contact&nbsp;Us</a> for editor access if you have more than a few&nbsp;updates.<br><br>
