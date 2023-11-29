@@ -24,6 +24,9 @@ Also lacks CHARM.  Far from comprehensive.
 Note: The main side categories are not in the B2B form.
 Instead, the sub-categories from the form are displayed under each main catergory.
 -->
+**Consumer Recycling Services**
+<a href="https://www.google.com/search?q=Recycling+near+me" target="_parent">Consumer Recycling Centers - Google</a>
+
 **Business to Business (B2B) Recycling**
 <a href="/localsite/map/#show=recyclers&state=GA" target="_parent">Commercial Recyclers and Recovered Materials Manufacturers (422)</a>
 
@@ -42,10 +45,7 @@ Maps for Hydrogen Initiative and Methane Capture
 <a href="https://epa.maps.arcgis.com/home/item.html?id=b738c9f0ece146a59e0fb22446189f52">U.S. EPA Recycling Infrastructure Dataset</a> - Wood, Plastic, Glass, etc.
 <a href="epa">Georgia CSV files exported from EPA site (July 2023)</a>
 
-**Google - Consumer Recycling Services**
-<a href="https://www.google.com/search?q=Recycling+near+me" target="_parent">Consumer Recycling Centers - Google</a>
-
-**Georgia Municipal Data Source**<!-- https://map.georgia.org -->
+**Georgia Municipal Data Sources**<!-- https://map.georgia.org -->
 [Transfer Stations](https://epd.georgia.gov/about-us/land-protection-branch/solid-waste/permitted-solid-waste-facilities) - Georgia EPD  
 [Georgia Landfills](https://epd.georgia.gov/about-us/land-protection-branch/solid-waste/permitted-solid-waste-facilities) - Georgia EPD  
 [Inert Waste Landfills](https://epd.georgia.gov/about-us/land-protection-branch/solid-waste/permitted-solid-waste-facilities) - Georgia EPD  
@@ -63,14 +63,11 @@ Maps for Hydrogen Initiative and Methane Capture
 <div style="clear:both"></div>
 -->
 
-## B2B Recyclers
+## B2B Recycling Data
 
-<a href="https://map.georgia.org/localsite/map/#show=recyclers&state=GA" target="_parent">Recycler Map and Listings</a> <span class="local" style="display:none">- <a href="https://map.georgia.org/localsite/map/#show=recyclers&state=GA" target="_parent">view on localhost</a></span>
 <a href="https://map.georgia.org/recycling/" target="_parent" style="white-space: nowrap;">Add Commercial Recycler Listings</a> 
 <a href="https://docs.google.com/spreadsheets/d/1YmfBPEFpfmaKmxcnxijPU8-esVkhaVBE1wLZqPNOKtY/edit?usp=sharing" target="google-recycling">Submit Changes by Adding Comments</a>
-<a href="https://github.com/georgiamap/recycling/" target="_parent">Recycling GitHub Repo</a>  
-<a href="https://github.com/modelearth/localsite/" target="_parent">Localsite Map GitHub Repo</a>  
-<a href="../../neighborhood/" target="_parent">About Maps from Google Sheets</a>  
+<a href="https://github.com/georgiamap/recycling/" target="_parent">Recycling GitHub Repo</a>
 
 ## Waste management and remediation services NAICS
 
