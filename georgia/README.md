@@ -8,6 +8,11 @@ Our Commercial and Manufacturer Recycler List is maintained by the Georgia Recyc
 
 <b>Volunteers welcome!</b> &nbsp;We need your help keeping our recycling <a href="https://docs.google.com/spreadsheets/d/1YmfBPEFpfmaKmxcnxijPU8-esVkhaVBE1wLZqPNOKtY/edit#gid=1924677788">Google Sheet</a> current. Add comments to rows or <a href="/localsite/info/input/">Contact&nbsp;Us</a> for editor access if you have more than a few&nbsp;updates.<br><br>
 
+<b>Questions</b><br>
+In the Georgia EPD excel files, the business locations are categorized as transfer stations, manufacturers recyclers and recycling processors. Is any sorting of the waste performed at the plastic transfer stations  before being sent for recycling?<br><br>
+
+What is the distinction between manufacturer recyclers and recycling processor businesses for plastics?
+
 </div>
 
 # Georgia Recycling
@@ -27,7 +32,7 @@ Instead, the sub-categories from the form are displayed under each main catergor
 **Consumer Recycling Services**
 <a href="https://www.google.com/search?q=Recycling+near+me" target="_parent">Consumer Recycling Centers - Google</a>
 
-**Business to Business (B2B) Recycling**
+**Business to Business (B2B) Recycling Map**
 <a href="/localsite/map/#show=recyclers&state=GA" target="_parent">Commercial Recyclers and Recovered Materials Manufacturers (422)</a>
 
 <a href="/localsite/map/#show=recyclers&state=GA&cat=Wood">B2B Wood Recycling</a>
