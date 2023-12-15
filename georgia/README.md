@@ -6,7 +6,7 @@
 Our Commercial and Manufacturer Recycler List is maintained by the Georgia Recycling Coalition (GRC) in partnership with the <a href="https://www.georgia.org/center-of-innovation" target="_parent">Georgia Center of Innovation</a>.
 <br><br>
 
-<b>Volunteers welcome!</b> &nbsp;We need your help keeping our recycling <a href="https://docs.google.com/spreadsheets/d/1YmfBPEFpfmaKmxcnxijPU8-esVkhaVBE1wLZqPNOKtY/edit#gid=1924677788">Google Sheet</a> current. Add comments to rows or <a href="/localsite/info/input/">Contact&nbsp;Us</a> for editor access if you have more than a few&nbsp;updates.<br><br>
+<b>Volunteers welcome!</b> &nbsp;We need your help keeping Georgia's recycling <a href="https://docs.google.com/spreadsheets/d/1YmfBPEFpfmaKmxcnxijPU8-esVkhaVBE1wLZqPNOKtY/edit#gid=1924677788">Google Sheet</a> current. Add comments to rows or <a href="/localsite/info/input/">Contact&nbsp;Us</a> for editor access if you have more than a few&nbsp;updates.<br><br>
 
 <b>Questions</b><br>
 In the Georgia EPD excel files, the business locations are categorized as transfer stations, manufacturers recyclers and recycling processors. Is any sorting of the waste performed at the plastic transfer stations  before being sent for recycling?<br><br>
