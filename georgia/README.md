@@ -50,7 +50,7 @@ Maps for Hydrogen Initiative and Methane Capture
 <a href="/localsite/map/#show=landfills&state=GA" target="_parent">Georgia Landfill Map (98)</a>   
 <a href="/localsite/map/#show=solidwaste&state=GA&cat=Operating" target="_parent">Solid Waste Map (3091)</a>
 
-The [Solid Waste](/localsite/map/#show=solidwaste&state=GA&cat=Operating) permit number consists of the first 3 digits is the county number - assigned alphabetically, the second 3 digits is the permit number issued sequentially in that county, third is the operation type designation - D for Disposal P for Processor, fourth is the facility type: Materials Recovery Facility (MRF), MSWL, Recovered materials (RM) and Incineration (INC).
+The [Solid Waste](/localsite/map/#show=solidwaste&state=GA&cat=Operating) permit number consists of the first 3 digits is the county number - assigned alphabetically, the second 3 digits is the permit number issued sequentially in that county, third is the operation type designation - D for Disposal P for Processor, fourth is the facility type: Materials Recovery Facility (MRF), Municipal Solid Waste Landfill (MSWL), Recovered Materials (RM), and Incineration (INC).
 
 
 **All States - US EPA**
