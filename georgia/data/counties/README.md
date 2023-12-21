@@ -6,18 +6,18 @@ The 3-digit [county number](https://github.com/GeorgiaMap/recycling/blob/main/ge
 
 1 to 3 digit permit number issued sequentially in that county.
 
-The operation type designation:
-D for Disposa
-P for Processor
+The operation type designation:  
+D for Disposal  
+P for Processor  
 
-The facility type:
-Materials Recovery Facility (MRF)
-Municipal Solid Waste Landfill (MSWL)
-Recovered Materials (RM)
-Incineration (INC)
-OSP
-COL
-IL
-IL-A
-PBR
-TS
+The facility type:  
+Materials Recovery Facility (MRF)  
+Municipal Solid Waste Landfill (MSWL)  
+Recovered Materials (RM)  
+Incineration (INC)  
+OSP  
+COL  
+IL  
+IL-A  
+PBR  
+TS  
