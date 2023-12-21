@@ -1,6 +1,6 @@
 # About Solid Waste Permit Numbers
 
-The [Solid Waste](/localsite/map/#show=solidwaste&state=GA&cat=Operating) permit number consists of:
+The [Solid Waste](https://map.georgia.org/localsite/map/#show=solidwaste&state=GA&cat=Operating) permit number consists of:
 
 The 3-digit [county number](https://github.com/GeorgiaMap/recycling/blob/main/georgia/data/counties/SolidWasteCounties.csv)
 
