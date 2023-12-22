@@ -44,6 +44,8 @@ Instead, the sub-categories from the form are displayed under each main catergor
 <a href="/localsite/map/#show=recyclers&state=GA&cat=Plastic">B2B Plastic Recycling</a>
 <a href="/localsite/map/#show=recyclers&state=GA&cat=Glass">B2B Glass Recycling</a>
 
+<a href="https://epd.georgia.gov/about-us/land-protection-branch/recovered-materials-and-abatement/tire-management" target="_blank">Tire Management</a>
+
 **Wastewater, Landfills, Solid Waste**
 Maps for Hydrogen Initiative and Methane Capture
 <a href="/localsite/map/#show=wastewater&state=GA" target="_parent">Georgia Wastewater Facilities Map (865)</a>  
