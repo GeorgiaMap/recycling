@@ -1,28 +1,40 @@
-<div class="floatright">
 
-<a href="https://georgiarecycles.org" target="_parent"><img src="img/ga-epd-logo.png" style="width: 100%; max-width: 350px !important;" title="Georgia EPD" alt="Georgia EPD"></a><br><br>
 
-<a href="https://georgiarecycles.org" target="_parent"><img src="img/grc-logo-320.png" style="width: 100%; max-width: 350px !important;" title="GRC" alt="Georgia Recycling Coalition"></a><br><br>
-Our Commercial and Manufacturer Recycler List is maintained by the Georgia Recycling Coalition (GRC) in partnership with the <a href="https://www.georgia.org/center-of-innovation" target="_parent">Georgia Center of Innovation</a>.
-<br><br>
-
-<b>Questions</b><br>
-In the Georgia EPD excel files, the business locations are categorized as transfer stations, manufacturers recyclers and recycling processors. Is any sorting of the waste performed at the plastic transfer stations  before being sent for recycling?<br><br>
-
-What is the distinction between manufacturer recyclers and recycling processor businesses for plastics?<br><br>
-
-<b>Answers</b><br>
-Georgia transfer station facilities operate under a permit by rule regulatory scenario [391-3-4-.06(3)(b)].<br><br>
-
-There are no reporting requirements for these facilities.  Source separated recovered materials are largely exempted from regulation in Georgia and EPD data on this type of material handling is limited.<br><br>
-
-<b>Volunteers welcome!</b> &nbsp;We'd love to have your help keeping Georgia's recycling <a href="https://docs.google.com/spreadsheets/d/1YmfBPEFpfmaKmxcnxijPU8-esVkhaVBE1wLZqPNOKtY/edit#gid=1924677788">Google Sheet</a> current. Add your comments in rows or <a href="/localsite/info/input/">Contact&nbsp;Us</a> for editor access if you have more than a few rows to&nbsp;update.
+<div style="float:right; width:100%; max-width: 400px !important">
+<div style="background-color:#ddd;padding:6px 16px 0px 15px;border-radius:12px;display:inline-block;widt:100%">
+<a href="https://georgiarecycles.org" target="_parent"><img src="img/grc-logo-320.png" style="width: 100%; max-width: 400px !important;" title="GRC" alt="Georgia Recycling Coalition"></a></div><br><br>
 
 </div>
 
-# Georgia Recycling
+<div style="overflow:auto">
+<br>
+<h1>Georgia Recycling</h1>
+<h2 style="border: none;">Waste, Water, Energy</h2>
+</div>
 
-## Waste, Water, Energy
+<div style="clear:both"></div>
+<hr style="margin-top:0px;margin-bottom:24px">
+
+<div class="floatright">
+
+Our Commercial and Manufacturer Recycler List is maintained by the Georgia Recycling Coalition (GRC) in partnership with the <a href="https://www.georgia.org/center-of-innovation" target="_parent">Georgia Center of Innovation</a>.
+<br><br>
+
+In the Georgia EPD excel files, the business locations are categorized as transfer stations, manufacturers recyclers and recycling processors.<br><br>
+
+<b>Q:</b> Is any sorting of the waste performed at the plastic transfer stations  before being sent for recycling?<br>
+
+<b>A:</b> Georgia transfer station facilities operate under a permit by rule regulatory scenario [391-3-4-.06(3)(b)].<br><br>
+
+<b>Q:</b> What is the distinction between manufacturer recyclers and recycling processor businesses for plastics?<br>
+
+<b>A:</b> There are no reporting requirements for these facilities.  Source separated recovered materials are largely exempted from regulation in Georgia and EPD data on this type of material handling is limited.<br><br>
+
+<b>Volunteers welcome!</b> &nbsp;Pitch in to keep Georgia's recycling <a href="https://docs.google.com/spreadsheets/d/1YmfBPEFpfmaKmxcnxijPU8-esVkhaVBE1wLZqPNOKtY/edit#gid=1924677788">Google Sheet</a> current. Add your comments in rows or <a href="/localsite/info/input/">Contact&nbsp;Us</a> for editor access to contribute updates.<br><br><br>
+
+<a href="https://georgiarecycles.org" target="_parent"><img src="img/ga-epd-logo.png" style="width: 100%; max-width: 350px !important;" title="Georgia EPD" alt="Georgia EPD"></a>
+
+</div>
 
 <!--
 RecycleSearch.com doesn't work in iFrame. Returns New York.
@@ -40,14 +52,12 @@ Instead, the sub-categories from the form are displayed under each main catergor
 **Business to Business (B2B) Recycling Map**
 <a href="/localsite/map/#show=recyclers&state=GA" target="_parent">Commercial Recyclers and Recovered Materials Manufacturers (422)</a>
 
-<a href="/localsite/map/#show=recyclers&state=GA&cat=Wood">B2B Wood Recycling</a>
-<a href="/localsite/map/#show=recyclers&state=GA&cat=Plastic">B2B Plastic Recycling</a>
-<a href="/localsite/map/#show=recyclers&state=GA&cat=Glass">B2B Glass Recycling</a>
-
+<a href="/localsite/map/#show=recyclers&state=GA&cat=Wood">B2B Wood Recycling</a>  
+<a href="/localsite/map/#show=recyclers&state=GA&cat=Plastic">B2B Plastic Recycling</a>  
+<a href="/localsite/map/#show=recyclers&state=GA&cat=Glass">B2B Glass Recycling</a>  
 <a href="https://epd.georgia.gov/about-us/land-protection-branch/recovered-materials-and-abatement/tire-management" target="_blank">Tire Management</a>
 
-**Wastewater, Landfills, Solid Waste**
-Maps for Hydrogen Initiative and Methane Capture
+**Wastewater, Landfills, Solid Waste**<!-- Maps for Hydrogen Initiative and Methane Capture -->
 <a href="/localsite/map/#show=wastewater&state=GA" target="_parent">Georgia Wastewater Facilities Map (865)</a>  
 <a href="/localsite/map/#show=landfills&state=GA" target="_parent">Georgia Landfill Map (98)</a>   
 <a href="/localsite/map/#show=solidwaste&state=GA&cat=Operating" target="_parent">Solid Waste Map (3091)</a>
@@ -78,7 +88,7 @@ The [Solid Waste](/localsite/map/#show=solidwaste&state=GA&cat=Operating) permit
 <div style="clear:both"></div>
 -->
 
-## B2B Recycling Data
+### B2B Recycling Data
 
 <a href="https://map.georgia.org/recycling/" target="_parent" style="white-space: nowrap;">Add Commercial Recycler Listings</a> 
 <a href="https://docs.google.com/spreadsheets/d/1YmfBPEFpfmaKmxcnxijPU8-esVkhaVBE1wLZqPNOKtY/edit?usp=sharing" target="google-recycling">Submit Changes by Adding Comments</a>
