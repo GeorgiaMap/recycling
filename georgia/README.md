@@ -20,17 +20,11 @@
 Our Commercial and Manufacturer Recycler List is maintained by the Georgia Recycling Coalition (GRC) in partnership with the <a href="https://www.georgia.org/center-of-innovation" target="_parent">Georgia Center of Innovation</a>.
 <br><br>
 
-In the Georgia EPD excel files, the business locations are categorized as transfer stations, manufacturers recyclers and recycling processors.<br><br>
+In Georgia EPD's Excel files, locations are categorized as transfer stations, manufacturers recyclers and recycling processors. Georgia transfer station facilities operate under a permit by rule regulatory scenario [391-3-4-.06(3)(b)].<br><br>
 
-<b>Q:</b> Is any sorting of the waste performed at the plastic transfer stations  before being sent for recycling?<br>
+Source separated recovered materials are mostly exempted from reporting, so data on material handling is limited.  Manufacturer recyclers and recycling processor businesses for plastics are not distintly tracked, nor is data availble on sorting performed at plastic transfer stations before being sent for recycling. <a href="/localsite/map/#show=recyclers&state=GA">View map</a><br><br>
 
-<b>A:</b> Georgia transfer station facilities operate under a permit by rule regulatory scenario [391-3-4-.06(3)(b)].<br><br>
-
-<b>Q:</b> What is the distinction between manufacturer recyclers and recycling processor businesses for plastics?<br>
-
-<b>A:</b> There are no reporting requirements for these facilities.  Source separated recovered materials are largely exempted from regulation in Georgia and EPD data on this type of material handling is limited.<br><br>
-
-<b>Volunteers welcome!</b> &nbsp;Pitch in to keep Georgia's recycling <a href="https://docs.google.com/spreadsheets/d/1YmfBPEFpfmaKmxcnxijPU8-esVkhaVBE1wLZqPNOKtY/edit#gid=1924677788">Google Sheet</a> current. Add your comments in rows or <a href="/localsite/info/input/">Contact&nbsp;Us</a> for editor access to contribute updates.<br><br><br>
+<b>Volunteers welcome!</b> &nbsp;Pitch in to keep Georgia's recycling <a href="https://docs.google.com/spreadsheets/d/1YmfBPEFpfmaKmxcnxijPU8-esVkhaVBE1wLZqPNOKtY/edit#gid=1924677788">Google Sheet</a> current and add details. Place your comments in rows or <a href="/localsite/info/input/">contact&nbsp;us</a> to contribute updates.<br><br><br>
 
 <a href="https://georgiarecycles.org" target="_parent"><img src="img/ga-epd-logo.png" style="width: 100%; max-width: 350px !important;" title="Georgia EPD" alt="Georgia EPD"></a>
 
