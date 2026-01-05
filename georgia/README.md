@@ -1,9 +1,7 @@
 
 
-<div style="float:right; width:100%; max-width: 400px !important">
-<div style="background-color:#ddd;padding:6px 16px 0px 15px;border-radius:12px;display:inline-block;widt:100%">
-<a href="https://georgiarecycles.org" target="_parent"><img src="img/grc-logo-320.png" style="width: 100%; max-width: 400px !important;" title="GRC" alt="Georgia Recycling Coalition"></a></div><br><br>
-
+<div style="float:right; width:100%; max-width: 400px !important; background-color: rgba(255, 255, 255, 0.9); border-radius: 15px; border:1px solid #eee; padding-top:10px; padding-left:15px">
+	<a href="https://georgiarecycles.org" target="_parent" style=""><img src="img/ga-epd-logo.png" style="width: 100%; max-width: 350px !important;" title="Georgia EPD" alt="Georgia EPD"></a>
 </div>
 
 <div style="overflow:auto">
@@ -17,16 +15,18 @@
 
 <div class="floatright">
 
-Our Commercial and Manufacturer Recycler List is maintained by the Georgia Recycling Coalition (GRC) in partnership with the <a href="https://www.georgia.org/center-of-innovation" target="_parent">Georgia Center of Innovation</a>.
-<br><br>
-
-In Georgia EPD's Excel files, locations are categorized as transfer stations, manufacturers recyclers and recycling processors. Georgia transfer station facilities operate under a permit by rule regulatory scenario [391-3-4-.06(3)(b)].<br><br>
+<a href="https://epd.georgia.gov/about-us/land-protection-branch/solid-waste/regulated-solid-waste-facilities">In Georgia EPD's Excel source files</a>, locations are categorized as transfer stations, manufacturers recyclers and recycling processors. Georgia transfer station facilities operate under a permit by rule regulatory scenario <span style="white-space:nowrap;"><a href="https://rules.sos.ga.gov/gac/391-3-4-.06">391-3-4-06(3)(b)</a>.</span><br><br>
 
 Source separated recovered materials are mostly exempted from reporting, so data on material handling is limited.  Manufacturer recyclers and recycling processor businesses for plastics are not distintly tracked, nor is data availble on sorting performed at plastic transfer stations before being sent for recycling. <a href="/localsite/map/#show=recyclers&state=GA">View map</a><br><br>
 
-<b>Volunteers welcome!</b> &nbsp;Pitch in to keep Georgia's recycling <a href="https://docs.google.com/spreadsheets/d/1YmfBPEFpfmaKmxcnxijPU8-esVkhaVBE1wLZqPNOKtY/edit#gid=1924677788">Google Sheet</a> current and add details. Place your comments in rows or <a href="/localsite/info/input/">contact&nbsp;us</a> to contribute updates.<br><br><br>
+<b>Volunteers welcome!</b> &nbsp;Pitch in to keep Georgia's recycling <a href="https://docs.google.com/spreadsheets/d/1YmfBPEFpfmaKmxcnxijPU8-esVkhaVBE1wLZqPNOKtY/edit#gid=1924677788">Google Sheet</a> current and add details. Place your comments in rows or <a href="/localsite/info/input/">contact&nbsp;us</a> to contribute updates.<br><br>
 
-<a href="https://georgiarecycles.org" target="_parent"><img src="img/ga-epd-logo.png" style="width: 100%; max-width: 350px !important;" title="Georgia EPD" alt="Georgia EPD"></a>
+Our Commercial and Manufacturer Recycler List was initially created by the Georgia Recycling Coalition (GRC) in partnership with the <a href="https://www.georgia.org/center-of-innovation" target="_parent">Georgia Center of Innovation</a>.
+<br><br>
+
+<div style="border:1px solid #eee; background-color: rgba(255, 255, 255, 0.9);padding:16px 36px 10px 35px;border-radius:12px;display:inline-block;width:100%;">
+<a href="https://georgiarecycles.org" target="_parent"><img src="img/grc-logo-320.png" style="width: 100%; max-width: 250px !important;" title="GRC" alt="Georgia Recycling Coalition"></a>
+</div><br><br>
 
 </div>
 
