@@ -86,6 +86,4 @@ The [Solid Waste](/localsite/map/#show=solidwaste&state=GA&cat=Operating) permit
 
 <a href="https://map.georgia.org/recycling/" target="_parent" style="white-space: nowrap;">Add Commercial Recycler Listings</a> 
 <a href="https://docs.google.com/spreadsheets/d/1YmfBPEFpfmaKmxcnxijPU8-esVkhaVBE1wLZqPNOKtY/edit?usp=sharing" target="google-recycling">Submit Changes by Adding Comments</a>
-<a href="https://github.com/georgiamap/recycling/" target="_parent">Recycling GitHub Repo</a>
-
-[Data Notes](data)
+<a href="https://github.com/georgiamap/recycling/" target="_parent">Recycling GitHub Repo</a> - [Data Notes](data)

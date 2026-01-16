@@ -1,5 +1,11 @@
 [Georgia Recycling](../)
-# Waste management and remediation services NAICS
+
+# Recycling Map Data Notes
+
+[Recycling GitHub Repo](https://github.com/georgiamap/recycling/) and [Google Sheet Map Data](https://docs.google.com/spreadsheets/d/1YmfBPEFpfmaKmxcnxijPU8-esVkhaVBE1wLZqPNOKtY/edit?usp=sharing)  
+Place your comments in rows or <a href="/localsite/info/input/">contact&nbsp;us</a> to contribute updates.
+
+## Waste management and remediation services NAICS
 
 [EPA USEEIO - 6 sectors for Waste Management and Remediation Services (562000)](https://www.nature.com/articles/s41597-022-01293-7/tables/7) - For the hybrid waste models the EPA is working on, placeholders extend the 6-digit specificity of the [562 sectors](https://www.census.gov/naics/) for waste material management.
 
