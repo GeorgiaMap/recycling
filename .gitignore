@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+.env
+.svn
+.flaskenv
+*.pyc
+*.pyo
+env/
+venv/
+dist/
+Bin
+Web.config
+app_data
+Thumbs.db
